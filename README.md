@@ -1,7 +1,7 @@
 # Order-summary-component
 Desafio do frontendmentor.io/challenges
 <br>
-link para acesso:
+link para acesso:https://ordersummarycomponentfm.netlify.app/
 <br>
 Captura de tela dekstop:
 <br>
