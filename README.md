@@ -5,8 +5,8 @@ link para acesso:https://ordersummarycomponentfm.netlify.app/
 <br>
 Captura de tela dekstop:
 <br>
-![Captura de tela de 2021-10-29 13-23-33](https://user-images.githubusercontent.com/91329679/145496482-bb37953c-e395-45d5-a338-2f6d1e96d4b7.png)
+![Captura de tela de 2021-12-09 21-46-38](https://user-images.githubusercontent.com/91329679/145498591-7d5220a6-a7cf-4c77-83a4-4e471cb245ef.png)
 <br>
 Captura de tela mobile:
 <br>
-![Captura de tela de 2021-10-29 13-28-35](https://user-images.githubusercontent.com/91329679/145496504-8b397f85-d985-4869-b7b1-b16e7eb10055.png)
+![Captura de tela de 2021-12-09 21-47-33](https://user-images.githubusercontent.com/91329679/145498608-63dcc792-f158-4558-8b9d-9ff0973495d3.png)
